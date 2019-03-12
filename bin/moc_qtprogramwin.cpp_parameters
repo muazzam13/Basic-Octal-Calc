@@ -1,0 +1,15 @@
+-IC:/Users/Muazzam/Desktop/qtprogramwin/bin
+-IC:/Users/Muazzam/Desktop/qtprogramwin
+-IC:/Users/Muazzam/Desktop/qtprogramwin/(
+-IE:/QT/5.9.1/msvc2017_64/include
+-IE:/QT/5.9.1/msvc2017_64/include/QtWidgets
+-IE:/QT/5.9.1/msvc2017_64/include/QtGui
+-IE:/QT/5.9.1/msvc2017_64/include/QtCore
+-IE:/QT/5.9.1/msvc2017_64/./mkspecs/win32-msvc
+-IE:/QT/5.9.1/msvc2017_64/include/QtANGLE
+-IC:/Users/Muazzam/Desktop/qtprogramwin/)
+-DWIN32
+--compiler-flavor=msvc
+-o
+C:/Users/Muazzam/Desktop/qtprogramwin/bin/moc_qtprogramwin.cpp
+C:/Users/Muazzam/Desktop/qtprogramwin/qtprogramwin.h

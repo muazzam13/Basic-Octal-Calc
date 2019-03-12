@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Muazzam\Desktop\qtprogramwin\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muazzam\Desktop\qtprogramwin\qtprogramwin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Muazzam\Desktop\qtprogramwin\bin\moc_qtprogramwin.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Muazzam\Desktop\qtprogramwin\bin\ui_qtprogramwin.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Muazzam\Desktop\qtprogramwin\qtprogramwin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Muazzam\Desktop\qtprogramwin\qtprogramwin.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Muazzam\Desktop\qtprogramwin\bin\CMakeFiles\f8ee3643c76c94492e080882cefb4e48\moc_qtprogramwin.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Muazzam\Desktop\qtprogramwin\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9813CED1-BFBD-3A3A-9C28-7A9E4EBD3B7D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{DA2DDCAB-1E8E-35BD-9E99-777BC3190095}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5AF20BBE-5D03-31B2-91C3-F185C0BD924F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{C081CEC8-47FA-3826-920C-FE7758283E50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F755EA4F-A7FE-30C4-9657-7ACE825145A8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

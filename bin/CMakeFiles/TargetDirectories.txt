@@ -1,0 +1,3 @@
+C:/Users/Muazzam/Desktop/qtprogramwin/bin/CMakeFiles/QtTest.dir
+C:/Users/Muazzam/Desktop/qtprogramwin/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/Muazzam/Desktop/qtprogramwin/bin/CMakeFiles/ZERO_CHECK.dir

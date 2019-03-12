@@ -1,0 +1,4 @@
+﻿  Generating ui_qtprogramwin.h
+  qtprogramwin.cpp
+C:\Users\Muazzam\Desktop\qtprogramwin\qtprogramwin.cpp(82): warning C4101: 'label_num': unreferenced local variable
+  QtTest.vcxproj -> C:\Users\Muazzam\Desktop\qtprogramwin\bin\Debug\QtTest.exe
